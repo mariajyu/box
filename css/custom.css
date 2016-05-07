@@ -1,0 +1,13 @@
+.navbar-default .navbar-brand {
+  color: #ff0000;
+}
+
+.navbar-default {
+    background-color: #dc1431;
+    border-color: #E7E7E7;
+}
+
+.progress.active .progress-bar {
+    -webkit-transition: none !important;
+    transition: none !important;
+}
